@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+six = "*"
+matplotlib = "==3.1.1"
+numpy = "==1.16.4"
+cython = "*"
+pyshp = "*"
+scikit-learn = "*"
+networkx = "==2.3"
+pandas = "*"
+geopy = "==1.20.0"
+shapely = "*"
+urllib3 = "==1.25.3"
+termcolor = "*"
+cfgrib = "==0.9.7"
+cartopy = "*"
+ccr-submission-code = {path = ".",editable = true}
+xarray = "*"
+
+[requires]
+python_version = "3.6"

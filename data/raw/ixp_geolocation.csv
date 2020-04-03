@@ -1,0 +1,628 @@
+,city,country,id,short_name,lat,lng,alt
+0,Sarajevo,BA,748,(BHNIX) Bosnia and Herzegovina Neutral Internet Exchange,43.84864,18.35644,0.0
+1,Seoul,KR,123,6NGIX (IPv6 Next Generation Internet eXchange),37.566,126.9784,0.0
+2,Beirut,LB,699,A-IX (Advanced Internet eXchange),33.89332,35.50157,0.0
+3,Klagenfurt,AT,276,AAIX (Alpes Adria Internet Exchange),46.62472,14.30528,0.0
+4,Canberra,AU,323,ACT-IX (Australian Capital Territory Internet Exchange),-35.28346,149.12807,0.0
+5,Arusha,TZ,212,AIXP (Arusha Internet eXchange),-3.36667,36.68333,0.0
+6,Auckland,NZ,586,AKL-IX (Auckland Internet Exchange),-36.84853,174.76349,0.0
+7,Miami,US,443,AMPATH (AMPATH - Florida International University/CIARA),25.77427,-80.19366,0.0
+8,Amsterdam,NL,737,ams (Asteroid Amsterdam Internet Exchange),52.37403,4.88969,0.0
+9,Amsterdam,NL,2,AMS-IX,52.37403,4.88969,0.0
+10,"Willemstad, Curacao",AN,61,AMS-IX Caribbean,12.1224,-68.8824,0.0
+11,Hong Kong,CN,356,AMS-IX Hong Kong,22.28589,114.15901,0.0
+12,Mumbai,IN,619,AMS-IX India,19.07283,72.88261,0.0
+13,San Francisco,US,532,AMS-IX USA Bay Area,37.77493,-122.41942,0.0
+14,Chicago,US,533,AMS-IX USA Chicago,41.85003,-87.65005,0.0
+15,New York,US,412,AMS-IX USA New York,40.71427,-74.00597,0.0
+16,Luanda,AO,202,ANG-IXP (Angola-IXP),-8.83682,13.23432,0.0
+17,Luanda,AO,531,Angonix (Angola Internet eXchange),-8.83682,13.23432,0.0
+18,,AL,746,ANIX (Albanian Neutral Internet eXchange),30.0,5.0,0.0
+19,Sao Paulo,BR,516,ANSP (Academic Network in Sao Paulo),-23.5475,-46.63611,0.0
+20,Boston,US,238,Any2 (CoreSite) Boston (Any2 (CoreSite) Boston),42.35843,-71.05977,0.0
+21,Chicago,US,239,Any2 (CoreSite) Chicago (Any2 (CoreSite) Chicago),41.85003,-87.65005,0.0
+22,Miami,US,240,Any2 (CoreSite) Miami (Any2 (CoreSite) Miami),25.77427,-80.19366,0.0
+23,Milpitas,US,241,Any2 (CoreSite) Milpitas (Any2 (CoreSite) Milpitas),37.42827,-121.90662,0.0
+24,New York,US,242,Any2 (CoreSite) New York (Any2 (CoreSite) New York),40.71427,-74.00597,0.0
+25,Reston,US,243,Any2 (CoreSite) Reston (Any2 (CoreSite) Reston),38.96872,-77.3411,0.0
+26,San Jose,US,244,Any2 (CoreSite) San Jose (Any2 (CoreSite) San Jose),37.33939,-121.89496,0.0
+27,Washington D.C.,US,245,Any2 (CoreSite) Washington (Any2 (CoreSite) Washington),38.89511,-77.03637,0.0
+28,Auckland,NZ,126,APE - Auckland (Auckland Peering Exchange),-36.84853,174.76349,0.0
+29,Gdynia,PL,721,APLIX.PL (APLIX),54.51889,18.53188,0.0
+30,Aracaju,BR,631,Aracaju (SE) (IX.br - Aracaju),-10.91111,-37.07167,0.0
+31,Yerevan,AM,372,ARMIX (Armenian Internet Traffic Exchange),40.18111,44.51361,0.0
+32,Dronten,NL,722,AS-IX (Autonomous Systems Internet Exchange),52.525,5.71806,0.0
+33,Tokyo,JP,695,Asia Smart IX (Asia Smart IX [BBIX Asia]),35.6895,139.69171,0.0
+34,Taipei,TW,456,ASIX6 (Academia Sinica Internet Exchange 6),25.04776,121.53185,0.0
+35,Clermont Ferrand,FR,564,AuvernIX (AuvernIX),45.77966,3.08628,0.0
+36,Phoenix,US,287,AZIX (Arizona Internet Exchange),33.44838,-112.07404,0.0
+37,Bucharest,RO,291,Balcan-IX (Balcan-IX),44.43225,26.10626,0.0
+38,Sofia,BG,197,Balkan-IX (Balkan Internet Exchange),42.69751,23.32415,0.0
+39,,LT,741,BALT-IX (Baltic Internet Exchange),48.69096,9.14062,0.0
+40,Baltimore,US,766,Baltimore IX,39.29038,-76.61219,0.0
+41,,TH,587,Bangkok Neutral Internet Exchange (BKNIX),29.84064,89.29688,0.0
+42,Fukuoka,JP,362,BBIX - Fukuoka (Broadband Internet eXchange - Fukuoka),33.6,130.41667,0.0
+43,Hong Kong,HK,590,BBIX - Hong Kong,22.27832,114.17469,0.0
+44,Nagoya,JP,364,BBIX - Nagoya (Broadband Internet eXchange - Nagoya),35.18147,136.90641,0.0
+45,Okinawa,JP,365,BBIX - Okinawa (Broadband Internet eXchange - Okinawa),26.5,127.93333,0.0
+46,Osaka,JP,366,BBIX - Osaka (Broadband Internet eXchange - Osaka),34.69374,135.50218,0.0
+47,Singapore,SG,601,BBIX - Singapore (BBIX - Singapore),1.28967,103.85007,0.0
+48,Tokyo,JP,51,BBIX - Tokyo (BroadBand Internet eXchange - Tokyo),35.6895,139.69171,0.0
+49,Tokyo,JP,363,BBIX - Tokyo 2 (Broadband Internet eXchange - Tokyo 2),35.6895,139.69171,0.0
+50,,DE,21,BCIX (BCIX Management GmbH),-22.90642,-43.18223,0.0
+51,Dhaka,BD,109,BDIX - Dhaka (Bangladesh Internet Exchange),23.7104,90.40744,0.0
+52,Beirut,LB,147,Beirut-IX (Beirut Internet Exchange),33.89332,35.50157,0.0
+53,Belém,BR,378,Belém (BEL) (IX.br Belém (BEL)),-1.45583,-48.50444,0.0
+54,Belo Horizonte,BR,154,Belo Horizonte (MG) (IX.br - Belo Horizonte (MG)),-19.92083,-43.93778,0.0
+55,Cotonou,BJ,545,Benin-IX (Benin Internet eXchange),6.36536,2.41833,0.0
+56,Cheyenne,US,414,BFIX (Bighorn Fiber Internet Exchange),41.13998,-104.82025,0.0
+57,Ouagadougou,BF,556,BFiX Burkina Faso (Burkina Faso),12.36566,-1.53388,0.0
+58,Thimphu,BT,757,Bhutan Internet Exchange - (Bt-IX),27.46609,89.64191,0.0
+59,New York,US,246,Big APE (The big apple peering Exchange),40.71427,-74.00597,0.0
+60,Gaborone,BW,203,BINX (Botswana Internet Exchange),-24.65451,25.90859,0.0
+61,Jakarta,ID,358,BIX - Jakarta (Biznet Internet eXchange),-6.21462,106.84513,0.0
+62,Manama,BH,321,BIX - Manama (Bahrain Internet Exchange),26.22787,50.58565,0.0
+63,Budapest,HU,12,BiX (Budapest Internet eXchange),47.49835,19.04045,0.0
+64,,HU,55,BIX (Budapest Internet Exchange),48.69096,9.14062,0.0
+65,Bergen,NO,192,BIX Bergen (Bergen Internet Exchange),60.39299,5.32415,0.0
+66,Sofia,BG,40,BIX.BG (Bulgarian Internet eXchange),42.69751,23.32415,0.0
+67,Buffalo,US,286,BNIIX (Buffalo Niagara International Internet Exchange),42.88645,-78.87837,0.0
+68,Brussels,BE,4,BNIX (Belgian National Internet Exchange),50.85045,4.34878,0.0
+69,Boras,SE,273,BOR-IX (Boras Internet Exchange),57.72101,12.9401,0.0
+70,Boston,US,407,BostonIX (Markley Boston Internet Exchange),42.35843,-71.05977,0.0
+71,Brno,CZ,588,BR-IX (Brno Internet Exchange Point),49.19522,16.60796,0.0
+72,Brasilia,BR,155,Brasília (DF) (IX.br -  Brasília (DF)),-10.0,-55.0,0.0
+73,Rennes,FR,672,Breizh-IX (Breizh-IX),48.11198,-1.67429,0.0
+74,Bremen,DE,404,BREM-IX (Bremen Internet Exchange),53.07516,8.80777,0.0
+75,Road Town,VG,537,BVIX (British Virgin Islands Internet Exchange),18.42693,-64.62079,0.0
+76,Karlsruhe,DE,620,BW-IX Karlsruhe (Baden-Württemberg Internet Exchange Karlsruhe),49.00937,8.40444,0.0
+77,Stuttgart,DE,139,BW-IX Stuttgart (Baden-Württemberg Internet Exchange Stuttgart),48.78232,9.17702,0.0
+78,Minsk,BY,279,BYIX (Belarus National Internet Exchange Point),53.9,27.56667,0.0
+79,Cairo,EG,206,CAIX (Cairo Internet Exchange),30.06263,31.24967,0.0
+80,Yaoundé,CM,528,CAMIX (Cameroon Internet Exchange Point),3.86667,11.51667,0.0
+81,Campina Grande,BR,283,Campina Grande (CPV) (IX.br - Campina Grande (CPV)),-7.23056,-35.88111,0.0
+82,Campinas,BR,262,Campinas (CAS) (IX.br - Campinas (CAS)),-22.90556,-47.06083,0.0
+83,Casablanca,MA,561,CASIX (Casablanca Internet Exchange),33.58831,-7.61138,0.0
+84,Bangkok,TH,621,CAT NIX (CAT NIX (National Internet Exchange)),13.75398,100.50144,0.0
+85,Bangkok,TH,319,CAT THIX (CAT THIX (Thailand Internet Gateway).),13.75398,100.50144,0.0
+86,,ES,11,CATNIX (Catalunya Neutral Internet eXchange),-6.82349,39.26951,0.0
+87,Caxias do Sul,BR,376,Caxias do Sul (CXJ) (IX.br - Caxias do Sul (CXJ)),-29.16806,-51.17944,0.0
+88,Jakarta,ID,697,CDIX (Cyber Data Internet Xchange),-6.21462,106.84513,0.0
+89,Chelyabinsk,RU,140,CHEL-PP (Chelyabinsk Peering Point),55.15402,61.42915,0.0
+90,Christchurch,NZ,127,CHIX - Christchurch (Christchurch Internet Exchange),-43.53333,172.63333,0.0
+91,Chicago,US,149,ChIX (Chicago Internet eXchange),41.85003,-87.65005,0.0
+92,Beijing,CN,582,CHN-IX (CHN-IX),39.9075,116.39723,0.0
+93,Guangzhou,CN,585,CHN-IX Guangzhou (CHN-IX Guangzhou),23.11667,113.25,0.0
+94,Los Angeles,US,247,CIIX (CENIC International Internet eXchange),34.05223,-118.24368,0.0
+95,Cape Town,ZA,209,CINX - Cape Town (Cape Town Internet Exchange),-33.92584,18.42322,0.0
+96,Abidjan,CI,205,CIVIX (Cote d’Ivoire Internet eXchange Point),5.30966,-4.01266,0.0
+97,Zagreb,HR,28,CIX (Croatian Internet eXchange),45.81444,15.97798,0.0
+98,Krakow,PL,496,CIX KR (CIX - Cracow Internet Exchange),50.06143,19.93658,0.0
+99,Geneva,CH,7,CIXP (CERN Internet Exchange Point),46.20222,6.14569,0.0
+100,Beijing,CN,457,CNC Beijing NAP (CNC Beijing NAP),39.9075,116.39723,0.0
+101,Beijing,CN,604,CNIX (China Internet Exchange),39.9075,116.39723,0.0
+102,Phnom Penh,KH,432,CNX (Cambodian Network Exchange),11.56245,104.91601,0.0
+103,St. Petersburg,RU,696,COD-IX (COD-IX),59.93863,30.31413,0.0
+104,Bend Oregon,US,477,COIX (Central Oregon Internet eXchange),44.05817,-121.31531,0.0
+105,Florida,US,684,Community-IX (Community-IX),28.75054,-82.5001,0.0
+106,,,747,Community-IX DE,34.06822,-79.35922,0.0
+107,Copenhagen,DK,478,Content-IX (GlobalConnect Content-IX),55.67594,12.56553,0.0
+108,Denver,US,257,CoreSite - Any2 Denver / RMIX Denver (CoreSite - Any2 Denver / RMIX Denver),39.73915,-104.9847,0.0
+109,Los Angeles,US,52,CoreSite - Any2 Los Angeles (CoreSite - Any2 Los Angeles),34.05223,-118.24368,0.0
+110,Santa Clara,US,342,CoreSite - Any2 Silicon Valley (CoreSite - Any2 Silicon Valley),37.35411,-121.95524,0.0
+111,"Crimea Republic, Simferopol",RU,186,Crimea-IX (Crimea-IX),44.95719,34.11079,0.0
+112,,CR,541,CRIX (NIC Costa Rica - Academia Nacional de Ciencias),21.0,-86.0,0.0
+113,Cuiabá,BR,500,Cuiabá (CGB) (IX.br - Cuiabá (CGB)),-15.59611,-56.09667,0.0
+114,Curitiba,BR,156,Curitiba (PR) (IX.br - Curitiba (PR)),-25.42778,-49.27306,0.0
+115,Nicosia,CY,73,CyIX (Cyprus Internet Exchange),35.17531,33.3642,0.0
+116,Austin,US,640,CyrusOne IX Austin (CyrusOne IX Austin),30.26715,-97.74306,0.0
+117,Chicago,US,643,CyrusOne IX Chicago (CyrusOne IX Chicago),41.85003,-87.65005,0.0
+118,Carrollton,US,353,CyrusOne IX Dallas (CyrusOne IX Dallas),32.95373,-96.89028,0.0
+119,Houston,US,639,CyrusOne IX Houston (CyrusOne IX Houston),29.76328,-95.36327,0.0
+120,Phoenix,US,642,CyrusOne IX Phoenix (CyrusOne IX Phoenix),33.44838,-112.07404,0.0
+121,San Antonio,US,641,CyrusOne IX San Antonio (CyrusOne IX San Antonio),29.42412,-98.49363,0.0
+122,Sterling,US,644,CyrusOne IX Sterling (CyrusOne IX Sterling),42.58031,-83.0302,0.0
+123,Roseau,DM,538,DANIX (Dominica National Internet Exchange),15.30174,-61.38808,0.0
+124,Khabarovsk,RU,525,DataIX - Khabarovsk (DataIX - Khabarovsk),48.48271,135.08379,0.0
+125,Moscow,RU,522,DataIX - Moscow (DataIX - Moscow),55.75222,37.61556,0.0
+126,Novosibirsk,RU,524,DataIX - Novosibirsk (DataIX - Novosibirsk),55.0415,82.9346,0.0
+127,St Petersburg,RU,403,DataIX - St Petersburg (DataIX - St Petersburg),59.93863,30.31413,0.0
+128,Ufa,RU,523,DataIX - Ufa (DataIX - Ufa),54.74306,55.96779,0.0
+129,Moscow,RU,567,DataLine-IX (DataLine-IX),55.75222,37.61556,0.0
+130,Dallas,US,580,DE-CIX Dallas (DE-CIX Dallas),32.78306,-96.80667,0.0
+131,Dusseldorf,DE,565,DE-CIX DUS (DE-CIX Dusseldorf),51.22172,6.77616,0.0
+132,Frankfurt am Main,DE,9,DE-CIX FRA (DE-CIX Frankfurt),50.11552,8.68417,0.0
+133,Hamburg,DE,47,DE-CIX HAM (DE-CIX Hamburg),53.57532,10.01534,0.0
+134,Istanbul,TR,560,DE-CIX Istanbul (DE-CIX Istanbul),41.01384,28.94966,0.0
+135,Lisbon,PT,765,DE-CIX LIS (DE-CIX Lisbon),38.71667,-9.13333,0.0
+136,Madrid,ES,470,DE-CIX MAD (DE-CIX Madrid),40.4165,-3.70256,0.0
+137,Marseilles,FR,559,DE-CIX Marseille (DE-CIX Marseille),47.06672,3.01183,0.0
+138,Munich,DE,54,DE-CIX MUC (DE-CIX Munich),48.13743,11.57549,0.0
+139,New York,US,425,DE-CIX NYC (DE-CIX New York),40.71427,-74.00597,0.0
+140,Palermo,IT,558,DE-CIX PMO (DE-CIX Palermo),38.13205,13.33561,0.0
+141,Delhi,IN,688,Delhi IX (Delhi Internet Exchange ( MCH Delhi)),28.65195,77.23149,0.0
+142,Detroit,US,662,DET-IX (Detroit Internet Exchange),42.33143,-83.04575,0.0
+143,The Hague,NL,681,DF-IX (Data Facilities Internet Exchange),52.07667,4.29861,0.0
+144,Atlanta,US,56,Digital Realty - Atlanta (Digital Realty Exchange - Atlanta),33.749,-84.38798,0.0
+145,Dallas,US,229,Digital Realty - Dallas (Digital Realty  Dallas),32.78306,-96.80667,0.0
+146,New York,US,230,Digital Realty - New York (Digital Realty New York),40.71427,-74.00597,0.0
+147,Phoenix,US,231,Digital Realty - Phoenix (Digital Realty Phoenix),33.44838,-112.07404,0.0
+148,Durban,ZA,487,DINX (Durban Internet Exchange),-29.8579,31.0292,0.0
+149,Ballerup,DK,517,DIX -  Ballerup (Danish Internet eXchange Point -  Ballerup),55.73165,12.36328,0.0
+150,Skanderborg,DK,518,DIX -  Skanderborg (Danish Internet eXchange -  Skanderborg),56.03434,9.93177,0.0
+151,Lyngby,DK,29,DIX - Lyngby (Danish Internet eXchange point),55.77044,12.50378,0.0
+152,Seoul,KR,314,DIX (DACOM Internet eXchange),37.566,126.9784,0.0
+153,Tokyo,JP,441,DIX-IE (Distributed IX in EDO),35.6895,139.69171,0.0
+154,,DJ,549,DjIX (Djibouti IX),7.1881,21.09375,0.0
+155,Donetsk,UA,322,DN-IX (Donetsk Internet Exchange),48.023,37.80224,0.0
+156,Dortmund,DE,463,DO-IX (DOrtmund Internet Exchange),51.51494,7.466,0.0
+157,Honolulu,US,270,DRF IX (DRFortress Exchange),21.30694,-157.85833,0.0
+158,Kiev,UA,198,DTEL-IX (Digital Telecom Internet Exchange),50.45466,30.5238,0.0
+159,Niigata,JP,485,Echigo-IX (Echigo Internet Exchange),37.88637,139.00589,0.0
+160,,DE,30,ECIX-BER,-22.90642,-43.18223,0.0
+161,,DE,340,ECIX-DUS,-22.90642,-43.18223,0.0
+162,,DE,431,ECIX-FRA,-22.90642,-43.18223,0.0
+163,,DE,341,ECIX-HAM,-22.90642,-43.18223,0.0
+164,,DE,77,ECIX-MUC,-22.90642,-43.18223,0.0
+165,Ekaterinburg,RU,169,ekt-ix (EKT-IX public peering VLAN),56.8519,60.6122,0.0
+166,Abu Dhabi,AE,320,EMIX (Emirates Internet Exchange),24.46667,54.36667,0.0
+167,,PL,548,EPIX (e-Poludnie Internet Exchange),51.0,18.0,0.0
+168,,PL,436,EPIX Warsaw (e-Poludnie Internet Exchange),51.0,18.0,0.0
+169,Ashburn,US,68,Equinix Ashburn (Equinix Ashburn),39.04372,-77.48749,0.0
+170,Atlanta,US,439,Equinix Atlanta (Equinix Atlanta),33.749,-84.38798,0.0
+171,Chicago,US,236,Equinix Chicago (Equinix Chicago),41.85003,-87.65005,0.0
+172,Dallas,US,235,Equinix Dallas (Equinix Dallas),32.78306,-96.80667,0.0
+173,Dublin,IE,714,Equinix Dublin (Equinix Dublin),53.33306,-6.24889,0.0
+174,Frankfurt,DE,715,Equinix Frankfurt (Equinix Frankfurt),50.11552,8.68417,0.0
+175,Geneva,CH,589,Equinix Geneva (Equinix Geneva),46.20222,6.14569,0.0
+176,Helsinki,AT,440,Equinix Helsinki (Equinix Helsinki),60.2251,24.8197,0.0
+177,Hong Kong,HK,180,Equinix Hong Kong (Equinix Hong Kong Exchange),22.27832,114.17469,0.0
+178,London,GB,716,Equinix London (Equinix London),51.50853,-0.12574,0.0
+179,Los Angeles,US,234,Equinix Los Angeles (Equinix Los Angeles),34.05223,-118.24368,0.0
+180,Manchester,GB,717,Equinix Manchester (Equinix Manchester),53.45,-2.23333,0.0
+181,Melbourne,AU,568,Equinix Melbourne (Equinix Melbourne),-37.814,144.96332,0.0
+182,Miami,US,484,Equinix Miami (Equinix Miami),25.77427,-80.19366,0.0
+183,Milan,IT,719,Equinix Milan (Equinix Milan),45.46427,9.18951,0.0
+184,New York,US,237,Equinix New York (Equinix New York),40.71427,-74.00597,0.0
+185,Osaka,JP,651,Equinix Osaka (Equinix Osaka),34.69374,135.50218,0.0
+186,Palo Alto,US,251,Equinix Palo Alto (Equinix Palo Alto),37.44188,-122.14302,0.0
+187,Paris,FR,39,Equinix Paris (Equinix Internet Exchange - Paris),48.85341,2.3488,0.0
+188,San Jose,US,233,Equinix San Jose (Equinix San Jose),37.33939,-121.89496,0.0
+189,Seattle,US,343,Equinix Seattle (Equinix Seattle),47.60621,-122.33207,0.0
+190,Singapore,SG,181,Equinix Singapore (Equinix Singapore Exchange),1.28967,103.85007,0.0
+191,Stockholm,SE,718,Equinix Stockholm (Equinix Stockholm),59.33258,18.0649,0.0
+192,Sydney,AU,179,Equinix Sydney (Equinix Sydney Data Centers),-33.86785,151.20732,0.0
+193,Tokyo,JP,182,Equinix Tokyo (Equinix Tokyo Exchange),35.6895,139.69171,0.0
+194,Toronto,CA,344,Equinix Toronto (Equinix Toronto),43.70011,-79.4163,0.0
+195,Warsaw,PL,36,Equinix WA IX (Equinix Warsaw),52.22977,21.01178,0.0
+196,Zurich,CH,22,Equinix Zurich (Equinix Internet Exchange - Zurich),47.36667,8.55,0.0
+197,Madrid,ES,62,ESPANIX (Espanix Internet Exchange),40.4165,-3.70256,0.0
+198,Madrid,ES,667,ESPANIX Upper LAN (ESPANIX Upper LAN),40.4165,-3.70256,0.0
+199,Strasbourg,FR,302,EuroGIX (European Global Internet eXchange),48.58392,7.74553,0.0
+200,,US,756,EVIX (Experimental Virtual Internet Exchange),45.99696,-118.49854,0.0
+201,Delhi,IN,683,Extreme IX Delhi (Extreme IX Delhi),28.65195,77.23149,0.0
+202,Mumbai,IN,694,Extreme IX Mumbai (Extreme IX Mumbai),19.07283,72.88261,0.0
+203,Espoo,FI,171,FICIX - Espoo (Finnish Communication and Internet Exchange - Espoo),60.2052,24.6522,0.0
+204,Helsinki,FI,23,FICIX - Helsinki (Finnish Communication and Internet Exchange - Helsinki),60.16952,24.93545,0.0
+205,Oulu,FI,172,FICIX - Oulu (Finnish Communication and Internet Exchange - Oulu),65.01236,25.46816,0.0
+206,Oslo,NO,150,FIXO (Free Internet eXchange Oslo),59.91273,10.74609,0.0
+207,Florida,US,543,FL-IX (Florida Internet Exchange),28.75054,-82.5001,0.0
+208,Florianopolis,BR,157,Florianópolis (SC) (IX.br - Florianópolis (SC)),-27.59667,-48.54917,0.0
+209,Paris,FR,80,FNIX6 (French National Internet Exchange IPv6),48.85341,2.3488,0.0
+210,Fortaleza,BR,263,Fortaleza (CE) (IX.br - Fortaleza (CE)),-3.71722,-38.54306,0.0
+211,Foz do Iguaçu,BR,616,Foz do Iguaçu (IGU) (IX.br - Foz do Iguaçu (IGU)),-25.54778,-54.58806,0.0
+212,Leeuwarden,NL,104,FR-IX (Friese Internet Exchange),53.20139,5.80859,0.0
+213,,FR,434,France-IX (FranceIX Marseille),48.69096,9.14062,0.0
+214,,FR,41,France-IX (FranceIX Paris),48.69096,9.14062,0.0
+215,Udine,IT,59,FVG-IX (Friuli Venezia Giulia Internet eXchange),46.0693,13.23715,0.0
+216,Chicago,US,491,GCIIX (Greater Chicago International Internet Exchange),41.85003,-87.65005,0.0
+217,Zurich,CH,632,GE-CIX (GE-CIX),47.36667,8.55,0.0
+218,Manila,PH,755,GetaFIX,14.6042,120.9822,0.0
+219,kiev,UA,165,Giganet (Giganet),50.45466,30.5238,0.0
+220,,PT,10,GIGAPIX (Gigabit Portuguese Internet Exchange),48.69096,9.14062,0.0
+221,Accra,GH,92,GIX - Accra (Ghana Internet Exchange),5.55602,-0.1969,0.0
+222,Tbilisi,GE,711,GIX (Georgian IXP),41.69411,44.83368,0.0
+223,Makati City,PH,461,GIX (Globe Internet Exchange),14.55027,121.03269,0.0
+224,Gothenburg,SE,103,GIX (Gothenburg Internet Exchange),57.70716,11.96679,0.0
+225,Gdansk,PL,474,GIX Gdansk (Gdansk Internet eXchange),54.35205,18.64637,0.0
+226,Hayward,US,310,Glimmerglass (Glimmerglass),37.66882,-122.0808,0.0
+227,Saint Petersburg,RU,581,Global-IX (Global-IX),59.93863,30.31413,0.0
+228,Amsterdam,NL,593,Global-IX Amsterdam (Global-IX Amsterdam),52.37403,4.88969,0.0
+229,Espoo,FI,594,Global-IX Espoo (Global-IX Espoo),60.2052,24.6522,0.0
+230,Helsinki,FI,595,Global-IX Helsinki (Global-IX Helsinki),60.16952,24.93545,0.0
+231,Moscow,RU,591,Global-IX Moscow (Global-IX Moscow),55.75222,37.61556,0.0
+232,Stockholm,SE,592,Global-IX Stockholm (Global-IX Stockholm),59.33258,18.0649,0.0
+233,Groningen,NL,24,GN-IX (Groningen Internet Exchange),53.21917,6.56667,0.0
+234,Goiania,BR,284,Goiânia (GYN) (IX.br - Goiânia (GYN)),-16.67861,-49.25389,0.0
+235,Cairo,EG,57,GPX MEIX (Middle East Internet Exchange),30.06263,31.24967,0.0
+236,,GR,752,GR-IX::Athens (Greek Internet Exchange),48.69096,9.14062,0.0
+237,,GR,753,GR-IX::Thessaloniki (Greek Internet Exchange),48.69096,9.14062,0.0
+238,Graz,AT,348,GraX (Grazer Internet Exchange ),47.06667,15.45,0.0
+239,Grenoble,FR,527,GrenoblIX (Grenoble Internet eXchange Point),45.17155,5.72239,0.0
+240,St. George's,GD,539,GREX (Grenada Internet Exchange),12.05288,-61.75226,0.0
+241,Toronto,CA,476,GTIIX (Greater Toronto IIX),43.70011,-79.4163,0.0
+242,Hagåtña,GU,472,GU-IX (Guam Internet Exchange),13.47567,144.74886,0.0
+243,Cayenne,GY,530,Guyanix (Guyana Internet Exchange Point),4.93333,-52.33333,0.0
+244,Harare,ZW,730,Harare IX (Harare Internet Exchange),-17.82772,31.05337,0.0
+245,Halifax,CA,659,HFXIX (Halifax Internet Exchange),44.88392,-63.51171,0.0
+246,Hamilton,NZ,184,HIX - Hamilton (Hamilton Internet Exchange),-37.78333,175.28333,0.0
+247,Honolulu,US,201,HIX - Honolulu (Hawaii Internet Exchange),21.30694,-157.85833,0.0
+248,Hong Kong,HK,110,HKIX (Hong Kong Internet Exchange),22.27832,114.17469,0.0
+249,Paris,FR,682,Hopus (Hopus),48.85341,2.3488,0.0
+250,Phnom Penh,KH,136,HTN-IX (Cambodia Internet Exchange),11.56245,104.91601,0.0
+251,Hyderabad,IN,687,Hyderabad IX (Hyderabad Internet Exchange (MCH Hyderabad )),17.38405,78.45636,0.0
+252,Hong Kong,HK,331,iAIX  (iAdvantage Internet Exchange),22.27832,114.17469,0.0
+253,Ibadan,NG,94,IB-IX (Ibadan Internet eXchange),7.37756,3.90591,0.0
+254,,UA,727,IF-IX (Ivano-Frankivsk Internet Exchnage),48.69096,9.14062,0.0
+255,Jogyakarta,ID,360,IIX - Jogyakarta (Jogyakarta Internet Exchange),-7.80139,110.36472,0.0
+256,Surabaya,ID,361,IIX - Surabaya (Surabaya Internet Exchange),-7.24917,112.75083,0.0
+257,Tel-Aviv,IL,112,IIX - Tel Aviv (Israeli Internet eXchange),32.08088,34.78057,0.0
+258,Jakarta,ID,111,IIX (Indonesia Internet eXchange),-6.21462,106.84513,0.0
+259,Palo Alto,US,405,IIX Peering (International Internet Exchange),37.44188,-122.14302,0.0
+260,,IE,646,INEX Cork (Internet Neutral Exchange Association Limited by Guarantee),48.69096,9.14062,0.0
+261,,IE,20,INEX LAN1 (Internet Neutral Exchange Association Limited by Guarantee),48.69096,9.14062,0.0
+262,,IE,645,INEX LAN2 (Internet Neutral Exchange Association Limited by Guarantee),48.69096,9.14062,0.0
+263,,HT,488,Infrastructure #1 (AHTIC Internet eXchange Point),21.0,-86.0,0.0
+264,,CH,34,Infrastructure #1 (SwissIX Internet Exchang),48.69096,9.14062,0.0
+265,,RO,37,InterLAN Internet Exchange (Interlan IX),48.69096,9.14062,0.0
+266,Baghdad,IQ,693,IQNET-IX (IQNET-IX),33.34058,44.40088,0.0
+267,Kolkata,IN,617,IX Kolkata (IIFON IX Kolkata),22.56263,88.36304,0.0
+268,Liverpool,GB,578,IX Liverpool (IX Liverpool),53.41058,-2.97794,0.0
+269,Brisbane,AU,606,IX-BNE (Brisbane IX),-27.46794,153.02809,0.0
+270,Denver,US,650,IX-Denver (Interconnection Exchange Denver),39.73915,-104.9847,0.0
+271,Melbourne,AU,563,IX-MEL (Melbourne IX),-37.814,144.96332,0.0
+272,Nizhny Novgorod,RU,194,IX-NN (IX of Nizhny Novgorod),56.32867,44.00205,0.0
+273,Lodz,PL,540,IX.LODZ.PL (Lodz Telecommunication Node),51.77058,19.47395,0.0
+274,San Juan,PR,225,IX.PR (Internet Exchange of Puerto Rico),18.46633,-66.10572,0.0
+275,San Lorenzo,PY,677,IX.py (IX.py),-25.33968,-57.50879,0.0
+276,Leeds,GB,281,IXLeeds (Leeds Internet Exchange),53.79648,-1.54785,0.0
+277,Malmoe,SE,106,IXOR (Internet eXchange point of the Oresund Region),55.60587,13.00073,0.0
+278,La Paz,BO,428,IXP-MegaLink (IXP MegaLink),-16.5,-68.15,0.0
+279,skopje,MK,760,IXP.Mk,41.99646,21.43141,0.0
+280,Lagos,NG,60,IXPN (Internet Exchange Point of Nigeria),6.45407,3.39467,0.0
+281,Jeddah,SA,759,Jeddah-IX (Jed-IX),21.54238,39.19797,0.0
+282,Johannesburg,ZA,95,JINX  (Johannesburg Internet Exchange),-26.20227,28.04363,0.0
+283,,MY,764,Johor Bahru Internet Exchange (Johor Bahru Internet Exchange),29.84064,89.29688,0.0
+284,Osaka,JP,119,JPIX - Osaka (Japan Internet Exchange - Osaka),34.69374,135.50218,0.0
+285,Tokyo,JP,44,JPIX - Tokyo (Japan Internet Exchange - Tokyo),35.6895,139.69171,0.0
+286,Osaka,JP,120,JPNAP - Osaka (Japan Network Access Point - Osaka),34.69374,135.50218,0.0
+287,Tokyo,JP,42,JPNAP - Tokyo (Japan Network Access Point - Tokyo),35.6895,139.69171,0.0
+288,Jacksonville,US,417,JXIX (Jacksonville Internet Exchange),30.33218,-81.65565,0.0
+289,,UG,96,Kampala 1 (Uganda Internet eXchange Point),7.1881,21.09375,0.0
+290,Almaty,KZ,188,KAZ-IX (Kazakhstan Traffic Exchange),43.25667,76.92861,0.0
+291,Semey,KZ,768,KazNIX,50.42675,80.26669,0.0
+292,Kansas City,US,221,KCIX Kansas City (Kansas City Internet Exchange),39.09973,-94.57857,0.0
+293,Kharkov,UA,152,KH-IX (Kharkov Internet Exchange),49.98081,36.25272,0.0
+294,Kherson,UA,698,Kherson Traffic Exchange (Kherson Traffic Exchange Point),46.65581,32.6178,0.0
+295,Kinshasa,CD,204,KINIX (KINshasa Internet eXchange point),-4.32758,15.31357,0.0
+296,Seoul,KR,72,KINX - Seoul (Korea Internet Neutral Exchange),37.566,126.9784,0.0
+297,Chisinau,MD,670,KIVIX (Chisinau Internet Exchange),47.00556,28.8575,0.0
+298,Warsaw,PL,288,KIX - Poland (KIX - Poland),52.22977,21.01178,0.0
+299,Seoul,KR,315,KIX (Korea Internet eXchange),37.566,126.9784,0.0
+300,Nairobi,KE,49,KIXP (Kenya Internet Exchange Point),-1.28333,36.81667,0.0
+301,Frankfurt,DE,78,KleyReX (Kleyer Rebstocker eXchange),50.11552,8.68417,0.0
+302,Khmelnytskiy,UA,402,KM-IX (Khmelnytskiy Internet Exchange),49.4230,26.9871,0.0
+303,Kolkata,IN,689,Kolkata IX (Kolkata Internet Exchange ( MCH Kolkata )),22.56263,88.36304,0.0
+304,Prishtinë,xk,381,KOSIX (Kosovo Internet Exchange Point),42.67272,21.16688,0.0
+305,Seoul,KR,124,KT-IX (Korea Telecom INternet Exchange),37.566,126.9784,0.0
+306,Al Sharq,KW,762,Kuwait Internet Exchange - ix.kw,29.37944,47.98722,0.0
+307,Bishkek,KG,728,Kyrgyz-IX (Kyrgyzstan Internet Exchange),42.87,74.59,0.0
+308,Kazan,RU,275,kzn-ix (KZN-IX public peering VLAN),55.78874,49.12214,0.0
+309,Los Angeles,US,137,LAIIX (Los Angeles International IX),34.05223,-118.24368,0.0
+310,Lajeado,BR,497,Lajeado (LAJ) (IX.br - Lajeado (LAJ)),-29.46694,-51.96139,0.0
+311,Lille,FR,433,Lillix (Lille Internet Exchange),50.63297,3.05858,0.0
+312,Cardiff,GB,544,LINX Cardiff,51.48,-3.18,0.0
+313,London,GB,1,LINX LON1,51.50853,-0.12574,0.0
+314,London,GB,600,LINX LON2,51.50853,-0.12574,0.0
+315,Manchester,GB,349,LINX Manchester,53.45,-2.23333,0.0
+316,Ashburn,US,426,LINX NoVA,39.04372,-77.48749,0.0
+317,Edinburgh,GB,409,LINX Scotland,55.95206,-3.19648,0.0
+318,Vilnius,LT,467,LIPTAM (Lietuvos Interneto paslaugų tiekėjų apsikeitimo mazgu),54.68916,25.2798,0.0
+319,Vilnius,LT,657,LIPTAM (LIPTAM),54.68916,25.2798,0.0
+320,Vilnius,LT,482,litix (Lithuanian Internet exchange),54.68916,25.2798,0.0
+321,Riga,LV,83,LIX - Latvia (Latvian Internet eXchange),56.946,24.10589,0.0
+322,Lodz,PL,168,LIX - Poland (Lodz Internet Exchange),51.77058,19.47395,0.0
+323,Manno,CH,562,LIX (Lugano Internet Exchange),46.02885,8.91824,0.0
+324,Maseru,LS,387,LIXP (Lesotho Internet eXchange Point),-29.31667,27.48333,0.0
+325,Monrovia,LR,596,LIXPA (Liberia Internet Exchange Point),6.30054,-10.7969,0.0
+326,,RO,763,LNK-IX (LNK Internet Exchange),48.69096,9.14062,0.0
+327,,GB,18,LONAP Network (LONAP Ltd.),48.69096,9.14062,0.0
+328,Londrina,BR,214,Londrina (LDA) (IX.br - Londrina (LDA)),-23.31028,-51.16278,0.0
+329,Luxembourg,LU,58,LU-CIX (Luxembourg Commercial Internet Exchange),49.75,6.16667,0.0
+330,,FR,31,lyonix,48.69096,9.14062,0.0
+331,Madison,US,267,MadIX (Madison Internet eXchange Peering Point),43.07305,-89.40123,0.0
+332,Dallas and Chicago,US,299,MAE - Central (MAE - Central),32.7767,-96.7970,0.0
+333,Vienna,US,301,MAE - East (MAE - East),38.90122,-77.26526,0.0
+334,Miami,US,298,MAE - Miami (MAE - Miami),25.77427,-80.19366,0.0
+335,San Jose and Los Angeles,US,300,MAE - West (MAE - West),34.0522,-118.2437,0.0
+336,Manaus,BR,375,Manaus (MAO) (IX.br - Manaus (MAO)),-3.10194,-60.025,0.0
+337,Maringá,BR,498,Maringá (MGF) (IX.br - Maringá (MGF)),-23.42528,-51.93861,0.0
+338,Fort-de-France,MQ,618,Martinix (Martinix),14.60365,-61.07418,0.0
+339,Boston,US,665,MASS IX (MASS IX),42.35843,-71.05977,0.0
+340,Skopje,MK,382,MatrIX (Macedonian Internet Exchange Point - Skopje),41.99646,21.43141,0.0
+341,Mamoudzou,YT,529,MayotIX (Mayotte Exchange Point),-12.78234,45.22878,0.0
+342,Winnipeg,CA,399,MBIX (Manitoba Internet Exchange),49.8844,-97.14704,0.0
+343,Jakarta,ID,473,MCIX (Matrix Cable Internet eXchange),-6.21462,106.84513,0.0
+344,Chisinau,MD,278,MD-IX (Moldova Internet Exchange),47.00556,28.8575,0.0
+345,Ashburn,US,608,MegaIX Ashburn (MegaIX Ashburn),39.04372,-77.48749,0.0
+346,Auckland,NZ,572,MegaIX Auckland (MegaIX Auckland),-36.84853,174.76349,0.0
+347,San Francisco Bay Area,US,571,MegaIX Bay Area (MegaIX Bay Area),37.77493,-122.41942,0.0
+348,Chicago,US,609,MegaIX Chicago (MegaIX Chicago),41.85003,-87.65005,0.0
+349,Dallas,US,610,MegaIX Dallas (MegaIX Dallas),32.78306,-96.80667,0.0
+350,Hong Kong,HK,573,MegaIX Hong Kong (MegaIX Hong Kong),22.27832,114.17469,0.0
+351,Las Vegas,US,647,MegaIX Las Vegas (MegaIX Las Vegas),36.17497,-115.13722,0.0
+352,Los Angeles,US,611,MegaIX Los Angeles (MegaIX Los Angeles),34.05223,-118.24368,0.0
+353,New York,US,612,MegaIX New York (MegaIX New York),40.71427,-74.00597,0.0
+354,Perth,AU,607,MegaIX Perth (MegaIX Perth),-31.95224,115.8614,0.0
+355,Seattle,US,613,MegaIX Seattle (MegaIX Seattle),47.60621,-122.33207,0.0
+356,Singapore,SG,574,MegaIX Singapore (MegaIX Singapore),1.28967,103.85007,0.0
+357,Sofia,BG,731,MegaIX Sofia (MegaIX Sofia),42.69751,23.32415,0.0
+358,Sofia,BG,732,MegaIX Sofia (MegaIX Sofia),42.69751,23.32415,0.0
+359,Sofia,BG,733,MegaIX Sofia (MegaIX Sofia),42.69751,23.32415,0.0
+360,Sofia,BG,734,MegaIX Sofia (MegaIX Sofia),42.69751,23.32415,0.0
+361,Sofia,BG,735,MegaIX Sofia (MegaIX Sofia),42.69751,23.32415,0.0
+362,Sofia,BG,736,MegaIX Sofia (MegaIX Sofia),42.69751,23.32415,0.0
+363,Sydney,AU,570,MegaIX Sydney (MegaIX Sydney),-33.86785,151.20732,0.0
+364,Toronto,CA,575,MegaIX Toronto (MegaIX Toronto),43.70011,-79.4163,0.0
+365,Phnom Penh,KH,355,MekongNet (MekongNet Internet Exchange),11.56245,104.91601,0.0
+366,Tokyo,JP,121,MEX - CEC   (Media EXchange),35.6895,139.69171,0.0
+367,,MX,740,MEX-IX (Mexico IXP),21.0,-86.0,0.0
+368,Antananarivo,MG,685,MGIX (Madagascar Global Internet eXchange),-18.91368,47.53613,0.0
+369,Montgomery,US,671,MGMix (Montgomery Internet Exchange),32.36681,-86.29997,0.0
+370,Miami,US,660,MiamiIX (Miami Internet Peering Exchange),25.77427,-80.19366,0.0
+371,Minneapolis,US,335,MICE (Midwest Internet Cooperative Exchange),44.97997,-93.26384,0.0
+372,Indianapolis,US,653,MidWest-IX Indy (MidWest-IX Indy),39.76838,-86.15804,0.0
+373,,IT,164,MINAP (Milan Neutral Access Point),48.69096,9.14062,0.0
+374,Manila,PH,316,MIX - Manila (Manila Internet Exchange),14.6042,120.9822,0.0
+375,Blantyre,MW,207,MIX (Malawi Internet Exchange),-15.78499,35.00854,0.0
+376,Msida,MT,84,MIX (Malta internet Exchange),35.8925,14.48278,0.0
+377,,IT,8,MIX (Milan Internet Exchange),48.69096,9.14062,0.0
+378,Ebene City,MU,546,mixp (Mauritius Internet eXchange Point),-20.24494,57.49163,0.0
+379,Podgorica,ME,584,MIXP (Montenegro Internet Exchange Point),42.44111,19.26361,0.0
+380,Paris,FR,309,MIXT (MIXT),48.85341,2.3488,0.0
+381,Milwaukee,US,475,MKE-IX (The Milwaukee IX),43.0389,-87.90647,0.0
+382,Milwaukee,US,418,MKEIX (Milwaukee Internet Exchange),43.0389,-87.90647,0.0
+383,Maputo,MZ,338,MOZ-IX (Mozambique Internet Exchange Point ),-25.96553,32.58322,0.0
+384,Moscow,RU,305,MPIX (MPIX),55.75222,37.61556,0.0
+385,Moscow,RU,13,msk-ix (MSK-IX public peering VLAN),55.75222,37.61556,0.0
+386,Mumbai,IN,634,Mumbai IX (Mumbai IX),19.07283,72.88261,0.0
+387,Kuala Lumpur,MY,183,MyIX  (Malaysia Internet Exchange),3.1412,101.68653,0.0
+388,Nurnberg,DE,79,N-IX (Nurnberger Internet eXchange),49.45421,11.07752,0.0
+389,,IT,17,NAMEX (NAMEX Roma IXP),48.69096,9.14062,0.0
+390,Bahia Blanca,AR,507,NAP CABASE - Bahia Blanca (NAP CABASE - Bahia Blanca),-38.71959,-62.27243,0.0
+391,San Carlos de Bariloche,AR,622,NAP CABASE - Bariloche (NAP CABASE - Bariloche),-41.14557,-71.30822,0.0
+392,Buenos Aires,AR,143,NAP CABASE - Buenos Aires (NAP CABASE - Buenos Aires),-34.61315,-58.37723,0.0
+393,Córdoba,AR,508,NAP CABASE - Cordoba (NAP CABASE - Cordoba),-31.4135,-64.18105,0.0
+394,Mar del Tuyù,AR,509,NAP CABASE - De La Costa (NAP CABASE - De La Costa),-36.57531,-56.68883,0.0
+395,Buenos Aires,AR,624,NAP CABASE - GBA Zona Norte (NAP CABASE - GBA Zona Norte),-34.61315,-58.37723,0.0
+396,Buenos Aires,AR,630,NAP CABASE - GBA Zona Oeste (NAP CABASE - GBA Zona Oeste),-34.61315,-58.37723,0.0
+397,Junin,AR,623,NAP CABASE - Junin (NAP CABASE - Junin),-34.54589,-60.93056,0.0
+398,La Plata,AR,510,NAP CABASE - La Plata (NAP CABASE - La Plata),-34.92145,-57.95453,0.0
+399,Mar del Plata,AR,511,NAP CABASE - Mar del Plata (NAP CABASE - Mar del Plata),-38.00042,-57.5562,0.0
+400,Mendoza,AR,512,NAP CABASE - Mendoza (NAP CABASE - Mendoza),-32.89084,-68.82717,0.0
+401,Neuquén,AR,513,NAP CABASE - Neuquén (NAP CABASE - Neuquén),-39.0,-70.0,0.0
+402,Pergamino,AR,625,NAP CABASE - Pergamino (NAP CABASE - Pergamino),-33.88995,-60.57357,0.0
+403,Posadas,AR,603,NAP CABASE - Posadas (NAP CABASE - Posadas),-27.36708,-55.89608,0.0
+404,Puerto Madryn,AR,602,NAP CABASE - Puerto Madryn (NAP CABASE - Puerto Madryn),-42.7692,-65.03851,0.0
+405,Resistencia,AR,707,NAP CABASE - Resistencia (NAP CABASE - Resistencia),-27.46056,-58.98389,0.0
+406,Rosario,AR,514,NAP CABASE - Rosario (NAP CABASE - Rosario),-32.94682,-60.63932,0.0
+407,Ruteo Central,AR,709,NAP CABASE - Ruteo Central (NAP CABASE - Ruteo Central),9.8937,-83.9468,0.0
+408,Saenz Peña,AR,627,NAP CABASE - Saenz Peña (NAP CABASE - Saenz Peña),-26.78522,-60.43876,0.0
+409,San Juan,AR,710,NAP CABASE - San Juan (NAP CABASE - San Juan),-31.0,-69.0,0.0
+410,San Luis,AR,626,NAP CABASE - San Luis (NAP CABASE - San Luis),-33.29501,-66.33563,0.0
+411,San Miguel de Tucumán,AR,628,NAP CABASE - San Miguel de Tucumán (NAP CABASE - San Miguel de Tucumán),-26.82414,-65.2226,0.0
+412,San Salvador de Jujuy,AR,629,NAP CABASE - San Salvador de Jujuy (NAP CABASE - San Salvador de Jujuy),-24.19457,-65.29712,0.0
+413,Santa Fe,AR,515,NAP CABASE - Santa Fe (NAP CABASE - Santa Fe),-31.64881,-60.70868,0.0
+414,Tandil,AR,706,NAP CABASE - Tandil (NAP CABASE - Tandil),-37.32167,-59.13316,0.0
+415,Viedma,AR,708,NAP CABASE - Viedma (NAP CABASE - Viedma),-40.81345,-62.99668,0.0
+416,Santiago,CL,161,NAP Chile (NAP Chile),-33.45694,-70.64827,0.0
+417,Bogota,CO,69,NAP Colombia (NAP Colombia),4.60971,-74.08175,0.0
+418,Sao Paulo,BR,215,NAP do Brasil (NAP do Brasil (Terremark)),-23.5475,-46.63611,0.0
+419,San Juan de lima,PE,389,NAP INCA (NAP INCA),-12.39148,-76.75579,0.0
+420,Guayaquil,EC,216,NAP.EC - Guayaquil (NAP Ecuador - Guayaquil),-2.19616,-79.88621,0.0
+421,Quito,EC,153,NAP.EC - Quito (NAP Ecuador - Quito),-0.22985,-78.52495,0.0
+422,Lima,PE,162,NAP.Peru (NAP.Peru),-12.04318,-77.02824,0.0
+423,,ZA,648,NAPAfrica IX Cape Town (NAPAfrica),7.1881,21.09375,0.0
+424,,ZA,649,NAPAfrica IX Durban (NAPAfrica),7.1881,21.09375,0.0
+425,,ZA,351,NAPAfrica IX Johannesburg (NAPAfrica),7.1881,21.09375,0.0
+426,Mountain View,US,336,NASA-AIX (NASA Ames Internet eXchange),37.38605,-122.08385,0.0
+427,Nashville,US,664,NashIX (Nashville Internet Exchange),36.16589,-86.78444,0.0
+428,Natal,BR,379,Natal (NAT) (IX.br - Natal (NAT)),-5.795,-35.20944,0.0
+429,Kabul,AF,749,National Internet Exchange Of Afghanistan (NIXA),34.52813,69.17233,0.0
+430,Enschede,NL,66,NDIX (Nederlands-Duitse Internet Exchange),52.21833,6.89583,0.0
+431,Sofia,BG,413,NetIX (NetIX),42.69751,23.32415,0.0
+432,Copenhagen,DK,294,Netnod - COMIX (Netnod - COMIX),55.67594,12.56553,0.0
+433,Gothenburg,SE,100,Netnod - Gothenburg (Netnod - Gothenburg),57.70716,11.96679,0.0
+434,Lulea,SE,145,Netnod - Lulea (Netnod - Lulea),65.58415,22.15465,0.0
+435,Malmoe,SE,101,Netnod - Malmoe (Netnod - Malmoe),55.60587,13.00073,0.0
+436,Stockholm,SE,5,Netnod - Stockholm (Netnod - Stockholm),59.33258,18.0649,0.0
+437,Sundsvall,SE,102,Netnod - Sundsvall (Netnod - Sundsvall),62.39129,17.3063,0.0
+438,Quezon City,PH,442,NGIX (Bayan Telecommunications Internet and Gaming Exchange),14.6488,121.0509,0.0
+439,Jakarta,ID,359,NiCE (National Inter Connection Exchange ),-6.21462,106.84513,0.0
+440,Oslo,NO,19,NIX (Norwegian Internet eXchange),59.91273,10.74609,0.0
+441,,CZ,15,"NIX.CZ (NIX.CZ, z.s.p.o.)",48.69096,9.14062,0.0
+442,,SK,552,"NIX.SK (NIX.CZ, z.s.p.o. organizacna zlozka)",48.69096,9.14062,0.0
+443,Oslo,NO,99,NIX2 (Norwegian Internet Exchange 2),59.91273,10.74609,0.0
+444,Ahmedabad,IN,173,NIXI - Ahmedabad (National Internet Exchange of India - Ahmedabad),23.02579,72.58727,0.0
+445,Bangalore,IN,174,NIXI - Bangalore (National Internet Exchange of India - Bangalore),12.97194,77.59369,0.0
+446,Chennai,IN,116,NIXI - Chennai (National Internet Exchange of India - Chennai),13.08784,80.27847,0.0
+447,Guwahati,IN,357,NIXI - Guwahati (National Internet Exchange of India - Guwahati),26.1844,91.7458,0.0
+448,Hyderabad,IN,175,NIXI - Hyderabad (National Internet Exchange of India - Hyderabad),17.38405,78.45636,0.0
+449,Kolkata,IN,117,NIXI - Kolkata (National Internet Exchange of India - Kolkata),22.56263,88.36304,0.0
+450,Lucknow,IN,177,NIXI - Lucknow (National Internet Exchange of India - Lucknow),26.83928,80.92313,0.0
+451,Mohali,IN,176,NIXI - Mohali (National Internet Exchange of India - Mohali),30.67995,76.72211,0.0
+452,Mumbai,IN,115,NIXI - Mumbai (National Internet Exchange of India - Mumbai),19.07283,72.88261,0.0
+453,Delhi,IN,45,NIXI - New Delhi (National Internet Exchange of India - New Delhi),28.65195,77.23149,0.0
+454,Valencia,ES,724,NIXVAL (Neutral Internet Exchange Valencia),39.46975,-0.37739,0.0
+455,The Hague,NL,27,NL-ix,52.07667,4.29861,0.0
+456,The Hague,NL,769,NL-ix 2,52.07667,4.29861,0.0
+457,Albuquerque,US,218,NMIX (New Mexico Internet Exchange),35.08449,-106.65114,0.0
+458,Umea,SE,97,NorrNod (NorrNod),63.82842,20.25972,0.0
+459,Richardson,US,227,North Texas Gigapop (North Texas Gigapop),40.12506,-95.71753,0.0
+460,Portland,US,743,Northern New England Neutral Internet Exchange,45.52345,-122.67621,0.0
+461,Lalitpur,NP,673,npIX JWL (npIX JWL),27.67658,85.31417,0.0
+462,,NP,53,NPIX Putalisadak (Internet Exchange Nepal),29.84064,89.29688,0.0
+463,Novosibirsk,RU,86,nsk-ix (NSK-IX public peering VLAN),55.0415,82.9346,0.0
+464,Sydney,AU,394,NSW-IX (New South Wales Internet Exchange),-33.86785,151.20732,0.0
+465,Portland,US,222,NWAX (Northwest Access Exchange),45.52345,-122.67621,0.0
+466,Helena,US,220,NWIX - Helena (Northwest Internet Exchange - Helena),46.59271,-112.03611,0.0
+467,New York,US,138,NYIIX (New York International IX),40.71427,-74.00597,0.0
+468,Philipsburg,AN,217,OCIX - Philipsburg (Open Caribbean Internet eXchange),18.0296,-63.0471,0.0
+469,Düsseldorf,DE,452,OCIX Düsseldorf (OpenCarrier e.G. Member IX Düsseldorf),51.22172,6.77616,0.0
+470,Odessa,UA,460,Od-IX (Odessa Traffic Exchange Network),46.47747,30.73262,0.0
+471,Eugene,US,256,OIX (Oregon Internet Exchange),44.05207,-123.08675,0.0
+472,Sofia,BG,554,OM-NIX,42.69751,23.32415,0.0
+473,Omaha,US,419,OmahaIX (Omaha Internet Exchange),41.25626,-95.94043,0.0
+474,Omsk,RU,490,OMSK-IX (Omsk Internet Exchange),54.99244,73.36859,0.0
+475,Ottawa,CA,189,OTTIX (Ottawa Internet eXchange),45.41117,-75.69812,0.0
+476,Nantes,FR,576,OuestIX (OuestIX),47.21725,-1.55336,0.0
+477,Los Angeles & Seattle,US,254,Pacific Wave (Pacific Wave),47.6062,-122.3321,0.0
+478,Sydney,AU,492,PacificIX (PacificIX),-33.86785,151.20732,0.0
+479,Los Angeles,US,421,PacificWave - LA (PacificWave Exchanges in Los Angeles),34.05223,-118.24368,0.0
+480,Seattle,US,420,PacificWave - Seattle (PacificWave Exchange in Seattle),47.60621,-122.33207,0.0
+481,London,GB,352,Packet Exchange (Packet Exchange),51.50853,-0.12574,0.0
+482,Atlanta,US,248,PAIX Atlanta (Palo Alto Internet Exchange Atlanta),33.749,-84.38798,0.0
+483,Dallas,US,249,PAIX Dallas (Palo Alto Internet Exchange Dallas),32.78306,-96.80667,0.0
+484,Seattle,US,252,PAIX Seattle (Palo Alto Internet Exchange Seattle),47.60621,-122.33207,0.0
+485,Toronto,CA,272,PAIX Toronto (Palo Alto Internet Exchange Toronto),43.70011,-79.4163,0.0
+486,Vienna,US,253,PAIX Virginia (Palo Alto Internet Exchange Virginia),38.90122,-77.26526,0.0
+487,São Carlos,BR,499,Paulista Central São Carlos (SCA) (IX.br - Paulista Central São Carlos (SCA)),-22.0175,-47.89083,0.0
+488,Piacenza,IT,726,pcix (Piacenza Internet Exchange ),45.05242,9.69342,0.0
+489,Prague,CZ,410,Peering.cz (Commercial peering center in Prague),50.08804,14.42076,0.0
+490,Perm,RU,196,PERM-IX (Perm Internet Exchange),58.01046,56.25017,0.0
+491,Philadelphia,US,745,PhillyIX (Philadelphia Internet Exchange),39.95233,-75.16379,0.0
+492,Makati City,PH,317,PHIX - Makati City (PHilippines Internet eXchange),14.55027,121.03269,0.0
+493,Philadelphia,US,422,PHLIX (Philadelphia Internet Exchange),39.95233,-75.16379,0.0
+494,Phoenix,US,268,Phoenix-IX (Phoenix Internet Exchange),33.44838,-112.07404,0.0
+495,Manilla,PH,232,PHOpenIX (Philippines Open Internet Exchange),14.6042,120.9822,0.0
+496,Bangkok,TH,318,PIE - Bangkok (ThaiSarn Public Internet Exchange),13.75398,100.50144,0.0
+497,Adelaide,AU,324,PIPE Networks Adelaide (PIPE Networks Adelaide),-34.92866,138.59863,0.0
+498,Brisbane,AU,325,PIPE Networks Brisbane (PIPE Networks Brisbane),-27.46794,153.02809,0.0
+499,Canberra,AU,326,PIPE Networks Canberra (PIPE Networks Canberra),-35.28346,149.12807,0.0
+500,Hobart,AU,327,PIPE Networks Hobart (PIPE Networks Hobart),-42.87936,147.32941,0.0
+501,Melbourne,AU,328,PIPE Networks Melbourne (PIPE Networks Melbourne),-37.814,144.96332,0.0
+502,Sydney,AU,329,PIPE Networks Sydney (PIPE Networks Sydney),-33.86785,151.20732,0.0
+503,St. Petersburg,RU,293,PIRIX (PIRIX Internet Exchange),59.93863,30.31413,0.0
+504,Santiago,CL,680,PIT Chile (PIT Chile),-33.45694,-70.64827,0.0
+505,La Paz,BO,411,PIT-Bolivia (Punto de Intercambio de Tráfico - Bolivia),-16.5,-68.15,0.0
+506,Pittsburgh,US,729,PIT-IX (Pittsburgh Internet Exchange),40.44062,-79.99589,0.0
+507,,RU,761,Piter-IX (Piter-IX),55.0,40.0,0.0
+508,Poznan,PL,151,PIX (Poznan Internet Exchange),52.40692,16.92993,0.0
+509,Montreal,CA,259,PIX Montreal (Peer1 Internet Exchange Montreal),45.50884,-73.58781,0.0
+510,Ramallah,PS,347,PIX Palestine (Palestine Internet Exchange),31.89964,35.20422,0.0
+511,Toronto,CA,260,PIX Toronto (Peer1 Internet Exchange Toronto),43.70011,-79.4163,0.0
+512,Vancouver,CA,261,PIX Vancouver (Peer1 Internet Exchange Vancouver),49.24966,-123.11934,0.0
+513,Lahore,PK,636,PKIX (Pakistan Internet Exchange Point),31.558,74.35071,0.0
+514,Palmerston North,NZ,129,PNIX - Palmerston North (Palmerston North Internet Exchange),-40.35636,175.61113,0.0
+515,Porto Alegre,BR,158,Porto Alegre (RS) (IX.br - Porto Alegre (RS)),-30.03283,-51.23019,0.0
+516,Montreal,CA,266,QiX (Quebec Internet eXchange),45.50884,-73.58781,0.0
+517,Brisbane,AU,392,QLD-IX (Queensland Internet Exchange),-27.46794,153.02809,0.0
+518,Rotterdam,NL,146,R-iX (Rotterdam Internet eXchange),51.9225,4.47917,0.0
+519,Recife,BR,264,Recife (PE) (IX.br - Recife (PE)),-8.05389,-34.88111,0.0
+520,Krasnoyarsk,RU,141,RED-IX (RED-IX (former KRS-IX)),56.01839,92.86717,0.0
+521,Saint Denis,RE,469,REUNIX (Reunion Internet eXchange Point),-20.88231,55.4504,0.0
+522,Eschen,LI,483,Rheintal IX (Rheintal IX),47.21071,9.52223,0.0
+523,Kigali,RW,295,RINEX (Rwanda Internet Exchange),-1.94995,30.05885,0.0
+524,Rio de Janeiro,BR,159,Rio de Janeiro (RJ) (IX.br - Rio de Janeiro (RJ)),-22.90642,-43.18223,0.0
+525,Reykjavik,IS,33,RIX (Reykjavik Internet Exchange),64.13548,-21.89541,0.0
+526,Gävle,SE,142,RIX-GH (Regional Internet Exchange Gästrikland-Hälsingland),60.67452,17.14174,0.0
+527,Riga,LV,686,rix-ix (RIX-IX public peering VLAN),56.946,24.10589,0.0
+528,Rostov on Don,RU,178,rnd-ix (RND-IX public peering VLAN),47.23135,39.72328,0.0
+529,Bucharest,RO,16,RoNIX (Romanian Network for Internet eXchange),44.43225,26.10626,0.0
+530,Tallin,EE,479,RTIX (Tallinn Governmental Internet Exchange),59.43696,24.75353,0.0
+531,Richmond,US,661,RVA-IX (Richmond Virginia Internet Exchange),37.55376,-77.46026,0.0
+532,Adelaide,AU,391,SA-IX (South Australia Internet Exchange),-34.92866,138.59863,0.0
+533,Salzburg,AT,553,SAIX (Salzburg Internet eXchange),47.79941,13.04399,0.0
+534,Salvador da Bahia,BR,160,Salvador (BA) (IX.br - Salvador (BA)),-12.97111,-38.51083,0.0
+535,São José do Rio Preto,BR,374,São José do Rio Preto (SJP) (IX.br - São José do Rio Preto (SJP)),-20.8166,-49.4065,0.0
+536,São José dos Campos,BR,289,São José dos Campos (SJC) (IX.br - São José dos Campos (SJC)),-23.17944,-45.88694,0.0
+537,Santiago,CL,674,SCL-IX (SCL-IX),-33.45694,-70.64827,0.0
+538,San Diego,US,258,SD-NAP (San Diego Network Access Point),32.71571,-117.16472,0.0
+539,Krasnodar,RU,489,Sea-IX (South Russia IX),45.04484,38.97603,0.0
+540,Paris,FR,32,SFINX (Service for French Internet eXchange),48.85341,2.3488,0.0
+541,,US,223,SFMIX (San Francisco Metropolitan Internet Exchange),45.99696,-118.49854,0.0
+542,Barnaul,RU,668,SFO-IX (SFO-IX),53.36056,83.76361,0.0
+543,Singapore,SG,371,SGIX (Singapore Internet Exchange),1.28967,103.85007,0.0
+544,Fujairah,AE,658,SH-IX (SMARTHUB Internet Exchange),25.11641,56.34141,0.0
+545,Krasnoyarsk,RU,655,SIBIR-IX (SIBIR-IX),56.01839,92.86717,0.0
+546,Kosice,SK,167,SIX - Kosice (Slovak Internet eXchange - Kosice),48.71395,21.25808,0.0
+547,,US,148,SIX (Seattle Internet Exchange),45.99696,-118.49854,0.0
+548,Ljubljana,SI,25,SIX (Slovenian Internet Exchange),46.05108,14.50513,0.0
+549,,SK,89,SIX Bratislava (Slovak Internet eXchange Bratislava),48.69096,9.14062,0.0
+550,Seattle,US,679,SIX Seattle (Jumbo) (Seattle Internet Exchange (9000 MTU)),47.60621,-122.33207,0.0
+551,Stavanger,NO,200,SIX Stavanger (Stavanger Internet Exchange),58.97005,5.73332,0.0
+552,Serrekunda,GM,723,SIXP (Serrekunda IXP),13.43833,-16.67806,0.0
+553,Khartoum,SD,388,SIXP (Sudan Internet Exchange Point),15.55177,32.53241,0.0
+554,Salt Lake City,US,503,SLIX (Salt Lake Internet Exchange),40.76078,-111.89105,0.0
+555,Freetown,SL,385,SLIX (Sierra Leone Internet eXchange point),8.48714,-13.2356,0.0
+556,Riga,LV,228,SMILE (Santa Monica Internet Local Exchange),56.946,24.10589,0.0
+557,Samara,RU,88,smr-ix (SMR-IX public peering VLAN),53.20007,50.15,0.0
+558,Atlanta,US,423,SNAP (Southeast Network Access Point),33.749,-84.38798,0.0
+559,Medford,US,271,SOAX (Southern Oregon Access Exchange),42.32652,-122.87559,0.0
+560,Stockholm,SE,91,SOLIX - Stockholm (SOLIX),59.33258,18.0649,0.0
+561,Mogadishu,SO,754,Somali Internet Exchange Point - Mogadishu,2.03711,45.34375,0.0
+562,Singapore,SG,133,SOX - Singapore (Singapore Open eXchange),1.28967,103.85007,0.0
+563,Belgrade,RS,292,SOX (Serbian Open eXchange),44.80401,20.46513,0.0
+564,St.-Petersburg,RU,87,spb-ix (SPB-IX public peering VLAN),59.93863,30.31413,0.0
+565,,KG,758,SR-IX (Silk Road Internet Exchange),29.84064,89.29688,0.0
+566,,SE,713,STHIX - Copenhagen (Stockholm Internet eXchange AB),63.0,12.0,0.0
+567,,SE,712,STHIX - Gothenburg (Stockholm Internet eXchange AB),63.0,12.0,0.0
+568,,SE,144,STHIX - Stockholm (Stockholm Internet eXchange AB),63.0,12.0,0.0
+569,Stavropol,RU,384,stw-ix (STW-IX public peering VLAN),45.0428,41.9734,0.0
+570,Southern Utah,US,424,SUPRNET (Southern Utah Peering Regional Network),37.04656,-110.78232,0.0
+571,Sofia,BG,666,T-CIX (T-CIX),42.69751,23.32415,0.0
+572,Tokyo,JP,122,T-LEX (Tokyo Lambda EXchange),35.6895,139.69171,0.0
+573,Tahoe,US,635,TahoeIX (Tahoe Internet Exchange),39.096,-120.03343,0.0
+574,Miami,US,43,Terremark (NAP of the Americas),25.77427,-80.19366,0.0
+575,Warsaw,PL,346,Thinx (Thinx),52.22977,21.01178,0.0
+576,Hall in Tirol,AT,663,Tirol-IX (Tirol-IX),47.28333,11.51667,0.0
+577,Dar es Salaam,TZ,50,TIX - Tanzania (Tanzania Internet eXchange),-6.82349,39.26951,0.0
+578,Tallinn,EE,76,TIX Tallinn (Tallinn Internet eXchange),59.43696,24.75353,0.0
+579,Mwanza,TZ,675,TIX Tanzania - Mwanza IXP (TIX Tanzania - Mwanza IXP),-2.51667,32.9,0.0
+580,Tromsø,NO,199,TIX Tromsø (Tromsø Internet Exchange),69.6489,18.95508,0.0
+581,Florence,IT,26,TIX Tuscany (Tuscany Internet eXchange),43.77925,11.24626,0.0
+582,Tallinn,EE,98,TLLIX (Tallinn Internet Exchange),59.43696,24.75353,0.0
+583,,IT,14,TOP-IX (Torino Piemonte Exchange Point),48.69096,9.14062,0.0
+584,Toronto,CA,163,TorIX (Toronto Internet Exchange),43.70011,-79.4163,0.0
+585,Toulouse,FR,274,TOUIX (Toulouse Internet eXchange),43.60426,1.44367,0.0
+586,Duluth,US,495,TP-IX (Twin Ports IX),46.78327,-92.10658,0.0
+587,Tampa,US,656,TPA-IX (Tampa Internet Exchange),27.94752,-82.45843,0.0
+588,Taipei,TW,185,TPIX - Taipei (Taipei Internet Exchange),25.04776,121.53185,0.0
+589,Warsaw,PL,401,TPIX (Orange Polska Internet Exchange),52.22977,21.01178,0.0
+590,Canberra,AU,330,TransACT IX (TransACT IX),-35.28346,149.12807,0.0
+591,Trondheim,NO,193,TRDIX (Trondheim Internet Exchange),63.43049,10.39506,0.0
+592,,FI,46,TREX (TREX Regional Exchanges Oy),62.0,-6.0,0.0
+593,Barataria,TT,536,TTIX (Trinidad and Tobago Internet Exchange),10.64717,-61.45996,0.0
+594,Enfidha,TN,547,TunIXP - Enfidha (Tunisian Internet eXchange Enfidha),36.07579,10.43859,0.0
+595,Tunis,TN,370,TunIXP (Tunisian Internet eXchange),36.81897,10.16579,0.0
+596,Istanbul,TR,767,Turk-IX,41.01384,28.94966,0.0
+597,Taipei,TW,113,TWIX - Taipei (Taiwan Internet Exchange),25.04776,121.53185,0.0
+598,Taipei,TW,114,TWNAP - Taipei (Taiwan Network Access Point),25.04776,121.53185,0.0
+599,Kiev,UA,48,UA-IX (Ukrainian Internet Exchange),50.45466,30.5238,0.0
+600,Dubai,AE,373,UAE-IX (United Arab Emirates Internet Exchange),25.0657,55.17128,0.0
+601,,RU,187,ULN-IX (Ulyanovsk Internet Exchange),55.0,40.0,0.0
+602,Coventry,GB,598,UNIFI-IX (UNIFI-IX),52.40656,-1.51217,0.0
+603,Uppsala,SE,459,UppRIX (Uppsala regional Internet exchange),59.85882,17.63889,0.0
+604,Ekaterinburg,RU,195,Ural-IX (Ural-IX),56.8519,60.6122,0.0
+605,Utah,US,465,UTOPIA (Utah Telecommunication Open Infrastructure Agency),40.23384,-111.65853,0.0
+606,Vancouver,CA,535,VANIX (Vancouver Internet eXchange),49.24966,-123.11934,0.0
+607,Melbourne,AU,393,VIC-IX (Victoria Internet Exchange),-37.814,144.96332,0.0
+608,Vitória,BR,377,Vitória (VIX) (IX.br -  Vitória (VIX)),-20.31944,-40.33778,0.0
+609,,AT,3,VIX (Vienna Internet Exchange),48.69096,9.14062,0.0
+610,Vladivostok,RU,170,vlv-ix (VLV-IX public peering VLAN),43.10562,131.87353,0.0
+611,Hanoi,VN,134,VNIX - Hanoi (Vietnam National Internet eXchange - Hanoi),21.0245,105.84117,0.0
+612,Ho Chi Minh City,VN,135,VNIX - Ho Chi Minh (Vietnam National Internet eXchange - Ho Chi Minh),10.82302,106.62965,0.0
+613,,IT,38,VSIX (VSIX Nap del Nord Est),48.69096,9.14062,0.0
+614,Port Vila,VU,494,VUIX (Vanuatu Internet Exchange),-17.73648,168.31366,0.0
+615,Moscow,RU,678,W-IX (W-IX),55.75222,37.61556,0.0
+616,Perth,AU,108,WA-IX (Western Australian Internet eXchange),-31.95224,115.8614,0.0
+617,Warsaw,PL,85,WIX - Poland (Warsaw Internet eXchange),52.22977,21.01178,0.0
+618,Wellington,NZ,132,WIX - Wellington (Wellington Internet Exchange),-41.28664,174.77557,0.0
+619,Winnipeg,CA,386,WPG-IX (Winnipeg Internet Exchange),49.8844,-97.14704,0.0
+620,Yaroslavl,RU,493,YAR-IX (Yaroslavl Internet Exchange),57.62987,39.87368,0.0
+621,Edmonton,CA,669,YEGIX (YEGIX),53.55014,-113.46871,0.0
+622,Billings,US,219,YRIX (Yellowstone Regional Internet Exchange),45.78329,-108.50069,0.0
+623,Calgary,CA,398,YYCIX (Calgary Internet Exchange),51.05011,-114.08529,0.0
+624,Harare,ZW,213,ZINX (Zimbabwe Internet Exchange),-17.82772,31.05337,0.0
+625,Lusaka,ZM,332,ZIXP (Zambia Internet Exchange Point),-15.40669,28.28713,0.0
+626,Emmen,NL,277,ZOD-IX (Zuid Oost Drentse Internet eXchange),52.77917,6.90694,0.0
